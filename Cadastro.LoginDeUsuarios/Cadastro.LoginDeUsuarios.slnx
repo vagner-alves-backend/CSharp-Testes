@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Cadastro.LoginDeUsuarios.MenuDeNavegacao/Cadastro.LoginDeUsuarios.MenuDeNavegacao.csproj" />
+  <Project Path="Cadastro.LoginDeUsuarios.ModelsClass/Cadastro.LoginDeUsuarios.ModelsClass.csproj" />
+</Solution>

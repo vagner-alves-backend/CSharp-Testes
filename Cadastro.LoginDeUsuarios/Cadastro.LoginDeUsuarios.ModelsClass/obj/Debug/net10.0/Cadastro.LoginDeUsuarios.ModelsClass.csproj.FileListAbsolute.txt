@@ -1,0 +1,11 @@
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\C#\Códigos-C#\Cadastro.LoginDeUsuarios\Cadastro.LoginDeUsuarios.ModelsClass\bin\Debug\net10.0\Cadastro.LoginDeUsuarios.ModelsClass.deps.json
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\C#\Códigos-C#\Cadastro.LoginDeUsuarios\Cadastro.LoginDeUsuarios.ModelsClass\bin\Debug\net10.0\Cadastro.LoginDeUsuarios.ModelsClass.dll
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\C#\Códigos-C#\Cadastro.LoginDeUsuarios\Cadastro.LoginDeUsuarios.ModelsClass\bin\Debug\net10.0\Cadastro.LoginDeUsuarios.ModelsClass.pdb
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\C#\Códigos-C#\Cadastro.LoginDeUsuarios\Cadastro.LoginDeUsuarios.ModelsClass\obj\Debug\net10.0\Cadastro.LoginDeUsuarios.ModelsClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\C#\Códigos-C#\Cadastro.LoginDeUsuarios\Cadastro.LoginDeUsuarios.ModelsClass\obj\Debug\net10.0\Cadastro.LoginDeUsuarios.ModelsClass.AssemblyInfoInputs.cache
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\C#\Códigos-C#\Cadastro.LoginDeUsuarios\Cadastro.LoginDeUsuarios.ModelsClass\obj\Debug\net10.0\Cadastro.LoginDeUsuarios.ModelsClass.AssemblyInfo.cs
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\C#\Códigos-C#\Cadastro.LoginDeUsuarios\Cadastro.LoginDeUsuarios.ModelsClass\obj\Debug\net10.0\Cadastro.LoginDeUsuarios.ModelsClass.csproj.CoreCompileInputs.cache
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\C#\Códigos-C#\Cadastro.LoginDeUsuarios\Cadastro.LoginDeUsuarios.ModelsClass\obj\Debug\net10.0\Cadastro.LoginDeUsuarios.ModelsClass.dll
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\C#\Códigos-C#\Cadastro.LoginDeUsuarios\Cadastro.LoginDeUsuarios.ModelsClass\obj\Debug\net10.0\refint\Cadastro.LoginDeUsuarios.ModelsClass.dll
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\C#\Códigos-C#\Cadastro.LoginDeUsuarios\Cadastro.LoginDeUsuarios.ModelsClass\obj\Debug\net10.0\Cadastro.LoginDeUsuarios.ModelsClass.pdb
+C:\Users\Vágner Alves\OneDrive\Documentos\_Meus-Repositorios\C#\Códigos-C#\Cadastro.LoginDeUsuarios\Cadastro.LoginDeUsuarios.ModelsClass\obj\Debug\net10.0\ref\Cadastro.LoginDeUsuarios.ModelsClass.dll
