@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cadastro.LoginDeUsuarios.ModelsClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d318eaf083593415e28ce3a877aee719ea6d90b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cadastro.LoginDeUsuarios.ModelsClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cadastro.LoginDeUsuarios.ModelsClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

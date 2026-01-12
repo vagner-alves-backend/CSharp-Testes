@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Códigos-C#\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.MenuDeNavegacao\\Cadastro.LoginDeUsuarios.MenuDeNavegacao.csproj": {}
+    "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Codigos-CSharp\\CSharp-Testes\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.MenuDeNavegacao\\Cadastro.LoginDeUsuarios.MenuDeNavegacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Códigos-C#\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.MenuDeNavegacao\\Cadastro.LoginDeUsuarios.MenuDeNavegacao.csproj": {
+    "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Codigos-CSharp\\CSharp-Testes\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.MenuDeNavegacao\\Cadastro.LoginDeUsuarios.MenuDeNavegacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Códigos-C#\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.MenuDeNavegacao\\Cadastro.LoginDeUsuarios.MenuDeNavegacao.csproj",
+        "projectUniqueName": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Codigos-CSharp\\CSharp-Testes\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.MenuDeNavegacao\\Cadastro.LoginDeUsuarios.MenuDeNavegacao.csproj",
         "projectName": "Cadastro.LoginDeUsuarios.MenuDeNavegacao",
-        "projectPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Códigos-C#\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.MenuDeNavegacao\\Cadastro.LoginDeUsuarios.MenuDeNavegacao.csproj",
+        "projectPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Codigos-CSharp\\CSharp-Testes\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.MenuDeNavegacao\\Cadastro.LoginDeUsuarios.MenuDeNavegacao.csproj",
         "packagesPath": "C:\\Users\\Vágner Alves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Códigos-C#\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.MenuDeNavegacao\\obj\\",
+        "outputPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Codigos-CSharp\\CSharp-Testes\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.MenuDeNavegacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vágner Alves\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Códigos-C#\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.ModelsClass\\Cadastro.LoginDeUsuarios.ModelsClass.csproj": {
-                "projectPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Códigos-C#\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.ModelsClass\\Cadastro.LoginDeUsuarios.ModelsClass.csproj"
+              "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Codigos-CSharp\\CSharp-Testes\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.ModelsClass\\Cadastro.LoginDeUsuarios.ModelsClass.csproj": {
+                "projectPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Codigos-CSharp\\CSharp-Testes\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.ModelsClass\\Cadastro.LoginDeUsuarios.ModelsClass.csproj"
               }
             }
           }
@@ -341,14 +341,14 @@
         }
       }
     },
-    "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Códigos-C#\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.ModelsClass\\Cadastro.LoginDeUsuarios.ModelsClass.csproj": {
+    "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Codigos-CSharp\\CSharp-Testes\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.ModelsClass\\Cadastro.LoginDeUsuarios.ModelsClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Códigos-C#\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.ModelsClass\\Cadastro.LoginDeUsuarios.ModelsClass.csproj",
+        "projectUniqueName": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Codigos-CSharp\\CSharp-Testes\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.ModelsClass\\Cadastro.LoginDeUsuarios.ModelsClass.csproj",
         "projectName": "Cadastro.LoginDeUsuarios.ModelsClass",
-        "projectPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Códigos-C#\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.ModelsClass\\Cadastro.LoginDeUsuarios.ModelsClass.csproj",
+        "projectPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Codigos-CSharp\\CSharp-Testes\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.ModelsClass\\Cadastro.LoginDeUsuarios.ModelsClass.csproj",
         "packagesPath": "C:\\Users\\Vágner Alves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Códigos-C#\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.ModelsClass\\obj\\",
+        "outputPath": "C:\\Users\\Vágner Alves\\OneDrive\\Documentos\\_Meus-Repositorios\\C#\\Codigos-CSharp\\CSharp-Testes\\Cadastro.LoginDeUsuarios\\Cadastro.LoginDeUsuarios.ModelsClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vágner Alves\\AppData\\Roaming\\NuGet\\NuGet.Config"

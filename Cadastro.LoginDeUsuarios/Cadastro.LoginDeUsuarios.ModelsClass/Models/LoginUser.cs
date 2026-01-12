@@ -7,16 +7,23 @@ namespace Cadastro.LoginDeUsuarios.ModelsClass.Models
 {
     public class LoginUser
     {
-        public string? UserNameAtivos {get; set;}
-        public string? UserSenhasAtivas {get; set;}
-        public string[]? Name {get; set;}
-        public int Admin {get; set;}
-        public void UserExiste(string? name, string? senha)
+        public string[] UserName = (["Vágner", "Gustavo", "Laura", "Renata"]);
+        public string[] UserPassword = (["123", "123", "123", "123"]);
+
+        public void LoginChecked(string? name, string? password)
         {
             for (int index = 0; index < 4; index++)
             {
-                Console.WriteLine($"{Name?[index]}");
-            }
+                if (UserName[index] == name && UserPassword[index] == password)
+                {
+                    Console.WriteLine($"Olá {name}, seu login foi concluido com sucesso..");
+                    break;
+                } else if (index == 3)
+                {
+                    Console.WriteLine($"Olá {name}, seu login não foi encontrado...");
+                }
+            } 
         }
     }
 }
+
