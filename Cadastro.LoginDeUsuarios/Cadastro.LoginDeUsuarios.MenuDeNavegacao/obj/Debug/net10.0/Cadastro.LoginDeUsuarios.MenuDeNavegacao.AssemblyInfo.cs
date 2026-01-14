@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cadastro.LoginDeUsuarios.MenuDeNavegacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d318eaf083593415e28ce3a877aee719ea6d90b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a8f2021c07b27db147a6f8ae3a8142b224d5262")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cadastro.LoginDeUsuarios.MenuDeNavegacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cadastro.LoginDeUsuarios.MenuDeNavegacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

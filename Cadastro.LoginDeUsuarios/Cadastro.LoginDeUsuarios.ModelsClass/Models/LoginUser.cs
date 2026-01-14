@@ -12,7 +12,7 @@ namespace Cadastro.LoginDeUsuarios.ModelsClass.Models
 
         public void LoginChecked(string? name, string? password)
         {
-            for (int index = 0; index < 4; index++)
+            for (int index = 0;index < UserName.Length; index++)
             {
                 if (UserName[index] == name && UserPassword[index] == password)
                 {
